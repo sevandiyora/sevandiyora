@@ -1,6 +1,6 @@
 # Hi, I'm Sevan 👋
 
-🎓 Master's in Computer Science at Montclair State University
+🎓 Master's in Computer Science from Montclair State University
 
 💻 Software Engineering | AI/ML | Full Stack Development
 
@@ -28,5 +28,5 @@ Financial management application
 
 ## Connect with me
 
-LinkedIn: your-linkedin-url
-Email: your-email
+LinkedIn: https://www.linkedin.com/in/sevan-diyora-113806362/
+Email:  sevandiyora4@gmail.com
