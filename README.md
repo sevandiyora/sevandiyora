@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sevan 👋
 
-<!--
-**sevandiyora/sevandiyora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Computer Science at Montclair State University
 
-Here are some ideas to get you started:
+💻 Software Engineering | AI/ML | Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Python
+- Java
+- C++
+- SQL
+- Flask
+- PyTorch
+- TensorFlow
+- MySQL
+
+## Featured Projects
+
+### Brain Tumour Detection System
+AI-powered MRI analysis using U-Net and Mask R-CNN
+
+### ClimaView
+Interactive climate analytics platform
+
+### Tax & Payment Tracking System
+Financial management application
+
+## Connect with me
+
+LinkedIn: your-linkedin-url
+Email: your-email
